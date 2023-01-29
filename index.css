@@ -1,0 +1,45 @@
+
+body {
+    margin: 0;
+    background-image: url(https://img.freepik.com/premium-vector/slam-dunk-jump-splash-basketball-player_9245-134.jpg)
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#home-score-count {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 50;
+    font-size: 40px;
+    line-height: 10px;
+    text-align: center;
+    color: red;
+}
+
+#guest-score-count {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 50;
+    font-size: 40px;
+    line-height: 10px;
+    text-align: center;
+    color: red;
+}
+.border {
+    border-width: 5px; 
+    border-style: dotted; 
+    border-color: #FF0000; 
+    padding: 1em;
+    background-color: black;
+}
+
+h3 {
+    color: #FF0000;
+}
+button {
+    background-color: #FF0000
+}
